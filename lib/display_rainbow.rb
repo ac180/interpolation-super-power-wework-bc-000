@@ -1,4 +1,4 @@
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+x = [" ", " ", " ", " ", " ", " ", " "]
 
 def display_rainbow(colors)
   puts "R: #{colors[0]}"
