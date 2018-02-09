@@ -1,5 +1,7 @@
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+
 def display_rainbow(colors)
-  puts display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+  puts 
 end
 
 display_rainbow
